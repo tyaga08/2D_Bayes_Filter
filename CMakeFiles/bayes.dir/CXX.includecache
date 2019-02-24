@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tyagaraja/my_projects/2D_Bayes_filter/src/main.cpp
+bayes_filter.cpp
+/home/tyagaraja/my_projects/2D_Bayes_filter/src/bayes_filter.cpp
+
