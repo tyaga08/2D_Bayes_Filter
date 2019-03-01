@@ -20,7 +20,7 @@ In order to run the code, follow the instructions:
 -> Open terminal  
 -> Run the following commands:  
 	cd build  
-	cmake .  
+	cmake ..  
 	make  
 	./bayes  
 -> Then give the inputs - state, number of time steps after which I want to calculate its probability  
