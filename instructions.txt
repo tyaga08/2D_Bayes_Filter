@@ -1,9 +1,9 @@
-2D Bayes Filter problem
+2D Bayes Filter problem  
 
-Description:
-This code is for a generic 2 state problem which are mutually exhaustive and dependent. In this case the state 'x' means 'on the ground' and state 'y' means 'in the air'.
+Description:  
+This code is for a generic 2 state problem which are mutually exhaustive and dependent. In this case the state 'x' means 'on the ground' and state 'y' means 'in the air'.  
 
-Initial states
+Initial states defined here
 p(state=x) = 1
 p(state=y) = 0
 p(state=x | prev_state=x, u='take_off') = 0.1
