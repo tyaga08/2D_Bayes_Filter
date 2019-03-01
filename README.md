@@ -19,6 +19,7 @@ In order to run the code, follow the instructions:
 -> Go to the project folder  
 -> Open terminal  
 -> Run the following commands:  
+	cd build  
 	cmake .  
 	make  
 	./bayes  
